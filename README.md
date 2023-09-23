@@ -1,4 +1,4 @@
-## Autore
+## Autor
 
     João Paulo
 
